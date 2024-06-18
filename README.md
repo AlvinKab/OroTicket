@@ -1,0 +1,2 @@
+# OroTicket
+This is a mobile application for fare payment that differs from conventional fare payment systems in Kenya in that it relies on issuing virtual tickets. The fare is paid in advance, before one boards a specific P.S.V. whose route is predetermined.
